@@ -142,4 +142,82 @@ Dati:
 - verso un po' di croccantini nella ciotola del cane finchè non è piena
 - mi riposo
 
+---
+
+**Esercizio 2**
+
+- Scansionare un documento su più fogli fronte-retro
+
+*Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita nel nulla! Che poi, possibile che nel 2025 ci siano ancora così tanti fogli di carta in giro per l’ufficio?! Ora ci penso io: una bella scansione e l’archiviamo in formato digitale, così la prossima volta so già dove andare a cercarla! L’unica pecca è che lo scanner non ha il fronte-retro automatico e mi tocca farlo a mano. Va beh, poco male, almeno sono pochi fogli!*
+
+---
+
+Dati:
+- pratica ritrovata
+- tanti fogli di carta in giro
+- scansione
+- archiviazione in formato digitale
+- facile da cercare e trovare
+- scanner non ha il fronte-retro automatico
+- scansione a mano
+- pochi fogli da scansionare
+
+**Svolgimento**
+
+- sono in ufficio
+- sono seduto alla mia scrivania
+- tiro la sedia all'indietro
+- mi alzo
+- mi incammino verso la libreria
+- prendo il raccoglitore che mi interessa
+- cerco tra le pagine la pratica che mi serve
+- noto che c'è un gran disordine di fogli
+- decido di iniziare una scansione della mia pratica
+- ritorno alla mia scrivania
+- mi avvicino allo scanner
+    - se è acceso
+        - apro lo sportellino che ha in sommità
+    - altrimenti
+        - accendo lo scanner e attendo che sia pronto all'uso
+- inserisco il foglietto con la prima pagina rivolta verso la parte in vetro
+- verifico che il foglio sia messo dritto seguendo le tracce sul dispositivo
+- abbasso lo sportellino dello scanner
+- mi avvicino al portatile per vedere che il programma dello scanner funzioni
+- tocco il pulsante per la scansione
+- monitoro il comportamento del programma sul portatile
+    - se il programma non risponde
+        - fermo tutto e provo a sistemare il programma
+    - altrimenti
+        - controllo che la scansione sia leggibile
+- alzo nuovamente lo sportellino dello scanner
+- prendo il foglietto e lo giro dal lato della seconda pagina
+- lo posiziono nuovamente seguendo le linee guida del dispositivo
+- chiudo lo sportellino dello scanner
+- avvio la scansione premendo il pulsante
+- controllo l'esito della scansione sul portatile
+    - se la scansione è avvenuta con successo
+        - proseguo
+    - altrimenti
+        - cancello il risultato e ripeto il procedimento
+- alzo lo sportellino dello scanner
+- rimuovo il foglietto
+- lo poso sulla scrivania in un posto in cui non mi dia fastidio
+- prendo il foglietto successivo
+- finchè non termito tutti i fogli della pratica, ripeto tutto il processo
+- una volta terminata la scansione
+    - se i fogli sono scansionati nel modo corretto
+        - salvo il documento
+    - altrimenti
+        - controllo cosa non va
+        - sistemo il problema
+- alzo lo sportellino dello scanner
+- rimuovo l'ultimo foglietto
+- sistemo il foglietto in ordine con i precedenti 
+- apro il raccoglitore
+- rimetto la pratica al suo posto
+- chiudo il raccoglitore
+- lo vado a rimettere al suo posto
+- ritorno a sedermi alla scrivania
+- mi rimetto al lavoro
+
 
