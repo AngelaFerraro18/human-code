@@ -32,28 +32,40 @@ Dati:
         - resto a casa
 - chiudo il frigo
 - prendo un taccuino e una penna
-- segno tutto quello che serve sul taccuino
-- stacco la pagina con cura
+    - se non ho nulla di tutto ciò
+        - scrivo una lista sul telefono
+    - altrimenti
+        - cerco di ricordare a mente ciò che serve
+- segno tutto quello che serve
+    -se ho usato il taccuino
+        - stacco la pagina con cura
+    - altrimenti 
+        - faccio attenzione a salvare la lista sul cellulare
+        - rimango concentrata
 - mi dirigo verso l'ingresso di casa mia
 - mi avvicino all'attaccapanni
 - prendo la giacca
 - prendo la borsa
-- apro la borsa e controllo se ci sono i documenti e i soldi e il telefono
-    - se ci sono
+    - se ho usato il taccuino
+        - poso la lista cartacea dentro la borsa
+    - altrimenti
+        - metto il telefono in borsa
+- apro la borsa e controllo se ci sono i documenti e i soldi 
+    - se ci sono entrambi
         -la indosso
     - altrimenti
         - vado a prendere quello che manca
-- metto la lista in borsa
 - mi avvicino al mobile vicino al portone
 - prendo le chiavi della macchina 
 - mi metto davanti al portone di casa
 - afferro le chiavi appese alla serratura e le giro per aprire la porta
 - apro la porta e vado verso l'esterno
-- chiudo la porta alle mie spalle a chiave e le poso nella borsa
+- chiudo la porta alle mie spalle con le chiavi e le poso nella borsa
 - mi dirigo verso l'automobile
 - la apro con il comando a distanza appena sono a qualche metro di distanza
 - mi avvicino alla portiera del guidatore e la apro
 - salgo a bordo dell'abitacolo per sedermi sul sedile
+- indosso la cintura di sicurezza
 - inserisco le chiavi nel cruscotto
 - accendo la macchina 
 - mi dirigo verso il supermercato
@@ -74,7 +86,8 @@ Dati:
         - ne prendo una quantità maggiore
     - se ha una scadenza troppo vicina
         - faccio un confronto con un prodotto simile
-    - altrimenti ne prendo uno
+    - altrimenti 
+        - o ne prendo uno
         - o non lo prendo per niente
         - o prendo il prodotto di un'altra marca
 - lo poso nel carrello o cestino
@@ -85,7 +98,7 @@ Dati:
     - se noto che sto spendendo meno del previsto
         - prendo degli snack in più
     - altrimenti
-        - ne prendo uno solo
+        - ne prendo un solo snack 
 - vado alle casse
 - finchè non arriva il mio turno
     - preparo il coupon che ho sull'app del telefono
@@ -99,7 +112,7 @@ Dati:
 - finchè la cassiera non finisce di battere i prodotti
     - sistemo i prodotti 
         - se ho il carrello
-            - li sistemo per categoria frigo o meno
+            - li sistemo per categoria frigo o dispensa
         altrimenti
             - chiederò dei sacchetti alla cassiera
 - appena la cassiera ha finito, mi avvicino a lei
@@ -111,7 +124,7 @@ Dati:
         - pago con la carta
 - esco dal supermercato
 - mi avvicino al retro della mia macchina
-- apro la borsa e prendo le chiavi
+- apro la borsa e prendo le chiavi della macchina
 - apro lo sportello del cofano
     - se ho il carrello
         - sistemo i prodotti nelle mie borse per la spesa
@@ -120,10 +133,10 @@ Dati:
         - sistemo le borse direttamente nel cofano
 - salgo in macchina dal lato del guidatore
 - mi dirigo verso casa
-- spengo la macchina e scendo
-- rimetto le chiavi in borsa 
+- spengo la macchina e scendo 
 - mi dirigo verso il cofano e lo apro
 - prendo le borse e chiudo la macchina a chiave
+- rimetto le chiavi in borsa
 - mi avvicino al portone di casa
 - poso le buste a terra
 - prendo le chiavi di casa
@@ -179,7 +192,7 @@ Dati:
         - apro lo sportellino che ha in sommità
     - altrimenti
         - accendo lo scanner e attendo che sia pronto all'uso
-- inserisco il foglietto con la prima pagina rivolta verso la parte in vetro
+- inserisco il foglietto con la prima pagina rivolta verso la parte in vetro, non mettendola capovolta
 - verifico che il foglio sia messo dritto seguendo le tracce sul dispositivo
 - abbasso lo sportellino dello scanner
 - mi avvicino al portatile per vedere che il programma dello scanner funzioni
@@ -191,6 +204,7 @@ Dati:
         - controllo che la scansione sia leggibile
 - alzo nuovamente lo sportellino dello scanner
 - prendo il foglietto e lo giro dal lato della seconda pagina
+- inserisco il foglietto con la seconda pagina rivolta verso la parte in vetro e verifico che il verso sia quello giusto
 - lo posiziono nuovamente seguendo le linee guida del dispositivo
 - chiudo lo sportellino dello scanner
 - avvio la scansione premendo il pulsante
@@ -198,11 +212,12 @@ Dati:
     - se la scansione è avvenuta con successo
         - proseguo
     - altrimenti
-        - cancello il risultato e ripeto il procedimento
+        - cancello il risultato e ripeto la scansione
 - alzo lo sportellino dello scanner
 - rimuovo il foglietto
 - lo poso sulla scrivania in un posto in cui non mi dia fastidio
 - prendo il foglietto successivo
+- verifico che la pagina segua la prima in ordine numerico
 - finchè non termito tutti i fogli della pratica, ripeto tutto il processo
 - una volta terminata la scansione
     - se i fogli sono scansionati nel modo corretto
